@@ -1,0 +1,23 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: Yuefei's Blog
+subtitle: ''
+description: ''
+keywords: 'blog,随笔'
+author: yuefei7746
+language: en
+timezone: ''
+
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: even
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: 'git'
+  repo: 'git@github.com:yuefei7746/yuefei7746.github.io.git'
+  branch: 'master'
